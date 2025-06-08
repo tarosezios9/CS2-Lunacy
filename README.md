@@ -1,6 +1,7 @@
 # 🔧 CS2 Lunacy Installation Guide
 
 ---
+
 ## 🛠️ Features
 
 This сhеаt for CS2 includes the following capabilities:
@@ -13,6 +14,7 @@ This сhеаt for CS2 includes the following capabilities:
 - **Radar Hack** – Show enemy positions on the in-game radar
 - **Skin Changer** – Apply weapon skins without owning them
 
+---
 
 ## 📥 Download
 
